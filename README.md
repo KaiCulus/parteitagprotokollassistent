@@ -9,7 +9,7 @@ schreiben – mit automatisch eingesetzter Systemzeit (`{{Systime}}`).
 pip install -r requirements.txt
 ```
 
-* **Windows:** Einfach die "Protokollassistent.exe" Datei runterladen und ausführen. Falls irgendwelche Antivirenprogramme Probleme machen: `py -m pip install -r requirements.txt`
+* **Windows:**  `py -m pip install -r requirements.txt`
 * **macOS:** danach unter *Systemeinstellungen → Datenschutz & Sicherheit*
   „Bedienungshilfen“ und „Eingabeüberwachung“ für Terminal/Python erlauben.
 * **Linux:** Globale Hotkeys funktionieren zuverlässig nur in einer X11-Sitzung
