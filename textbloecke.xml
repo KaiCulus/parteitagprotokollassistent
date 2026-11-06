@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<protokollassistent version="2">
+  <einstellungen betriebssystem="arch" textverarbeitung="libreoffice" browser="firefox" tastaturlayout="de" zeitformat="%H:%M" datumsformat="%d.%m.%Y" hotkeys_abfangen="ja" hotkeys_aktiv="ja" />
+  <textbloecke>
+    <textblock id="ae48fceb4f" hotkey="ctrl+shift+1" absaetze="nein" enter_danach="0">
+      <zeile>
+        <text>{{Systime}} Uhr: </text>
+      </zeile>
+    </textblock>
+    <textblock id="75af5f2799" hotkey="ctrl+shift+2" absaetze="nein" enter_danach="0">
+      <zeile>
+        <text>{{Systime}} Uhr:</text>
+      </zeile>
+      <zeile>
+        <text>Redebeitrag: </text>
+      </zeile>
+    </textblock>
+    <textblock id="a8f75843ea" hotkey="ctrl+shift+3" absaetze="nein" enter_danach="0">
+      <zeile>
+        <text>{{Systime}} Uhr:</text>
+      </zeile>
+      <zeile>
+        <text>Zwischenfrage: </text>
+      </zeile>
+    </textblock>
+  </textbloecke>
+</protokollassistent>
